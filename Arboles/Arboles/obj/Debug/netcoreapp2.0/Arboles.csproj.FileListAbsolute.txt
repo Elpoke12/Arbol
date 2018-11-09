@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/Arboles/Arboles/bin/Debug/netcoreapp2.0/Arboles.deps.json
+/Users/osmarenrique/Projects/Arboles/Arboles/bin/Debug/netcoreapp2.0/Arboles.runtimeconfig.json
+/Users/osmarenrique/Projects/Arboles/Arboles/bin/Debug/netcoreapp2.0/Arboles.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/Arboles/Arboles/bin/Debug/netcoreapp2.0/Arboles.dll
+/Users/osmarenrique/Projects/Arboles/Arboles/bin/Debug/netcoreapp2.0/Arboles.pdb
+/Users/osmarenrique/Projects/Arboles/Arboles/obj/Debug/netcoreapp2.0/Arboles.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/Arboles/Arboles/obj/Debug/netcoreapp2.0/Arboles.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/Arboles/Arboles/obj/Debug/netcoreapp2.0/Arboles.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/Arboles/Arboles/obj/Debug/netcoreapp2.0/Arboles.AssemblyInfo.cs
+/Users/osmarenrique/Projects/Arboles/Arboles/obj/Debug/netcoreapp2.0/Arboles.dll
+/Users/osmarenrique/Projects/Arboles/Arboles/obj/Debug/netcoreapp2.0/Arboles.pdb
